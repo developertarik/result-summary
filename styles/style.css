@@ -86,21 +86,21 @@ padding-bottom: 30px;
 }
 .reaction{
 color: hsl(0, 100%, 67%);
-background: rgb(241, 214, 214);
+background: rgb(250, 236, 236);
  
 }
 
 .memory{
     color: hsl(39, 100%, 56%);
-    background: hsl(38, 38%, 87%);
+    background: hsl(37, 39%, 94%);
  }
 .verbal{
     color:  hsl(166, 100%, 37%);
-    background:hsl(163, 51%, 90%);
+    background:hsl(162, 29%, 93%);
  }
 .visual{
 color:  hsl(234, 85%, 45%);
-background: hsl(235, 42%, 84%);
+background: hsl(233, 27%, 94%);
  }
 .continue {
     position: relative;
